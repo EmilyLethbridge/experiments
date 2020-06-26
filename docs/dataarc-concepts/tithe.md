@@ -2,7 +2,7 @@
 
 ###  Scope note:
 
-A tax levied by the church on farms in Iceland. Revenue from the tithe was divided into four parts among the bishop, the local priest, the parish church and the poor.
+An annual tax levied by the Church on farms in Iceland worth ten percent of revenue in cash or kind. Revenue from the tithe was divided into four parts among the bishop, the local priest, the parish church and the poor. Tithe was introduced in Iceland 1096-97 C.E. and is thought to have been the first piece of legislation committed to parchment in the vernacular Icelandic language. 
 
 ### Examples:
 
